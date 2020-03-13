@@ -12,4 +12,14 @@ namespace uloc
             var unusedLocal = 1;
         }
     }
+
+    public class MyStrangeClass
+    {
+        int state = 0;
+
+        public void MyStrangeMethod(int s)
+        {
+            // We do not use instanc estate here
+        }
+    }
 }
