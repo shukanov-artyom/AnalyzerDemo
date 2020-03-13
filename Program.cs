@@ -9,7 +9,7 @@ namespace uloc
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            var t = 1;
+            var unusedLocal = 1;
         }
     }
 }
