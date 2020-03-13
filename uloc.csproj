@@ -7,8 +7,6 @@
 
   <PropertyGroup> 
      <CodeAnalysisRuleSet>myrules.ruleset</CodeAnalysisRuleSet> 
-     <Features>IOperation</Features> 
-     <NoWarn></NoWarn>   
   </PropertyGroup> 
 
 </Project>
